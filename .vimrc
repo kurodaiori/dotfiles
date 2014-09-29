@@ -1,4 +1,4 @@
-"------ Encode ------"
+"------ Encode --change----"
 set encoding=utf-8
 if has('unix')
   set fileformat=unix
@@ -263,6 +263,6 @@ let g:neocomplete#sources#omni#input_patterns.perl = '\h\w*->\h\w*\|\h\w*::'
 
 "" ------ ColorScheme ------"
 syntax enable
-set background=dark
+set background=dark0
 "let g:solarized_termcolors=256
-colorscheme solarized
+colorscheme solarized00
